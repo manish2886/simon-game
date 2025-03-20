@@ -1,0 +1,37 @@
+* {
+  text-align: center;
+}
+h3 {
+
+ font-size: 35px;
+ color: red;
+}
+.btn {
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  margin: 2rem;
+  border-radius: 30px;
+}
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+.red {
+  background-color: brown;
+}
+.yellow {
+  background-color: rgb(221, 206, 67);
+}
+.green {
+  background-color: rgb(77, 192, 77);
+}
+.purpule {
+  background-color: indianred;
+}
+.flash {
+  background-color: #fff;
+}
+.userflash {
+  background-color: chartreuse;
+}
